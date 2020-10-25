@@ -1,0 +1,33 @@
+Algoritmo
+	Un algoritmo se defino como un conjunto de reglas, expresadas en un lenguaje específico, para realizar alguna tarea en general, es decir, un conjunto de pasos, procedimientos o acciones que permiten alcanzar un resultado o resolver un problema.
+
+	Un algoritmo es la parte más importante y durable de las ciencas de la computación debido a que éste puede ser creado de manera independiente tanto del lenguaje como de las características físicas del equipo que lo va a ejecutar.
+
+	Las principales características con las que debe cumplir un algoritmo son:
+		- Preciso: Debe indicar el orden de realización de paso y no puede tener ambiguedad
+		- Definido: Si se sigue dos veces o más se obtiene el mismo resultado.
+		- Finito: Tiene din, es deicr, tiene un número determinado de pasos.
+		- Correcto: Cumplir con el objetivo.
+		- Debe tener al menos una salida y esta debe de ser perceptible.
+		- Debe ser sencillo y legible.
+		- Eficiente: Realizarlo en el menor tiempo posible.
+		- Eficaz: Que produzca el efecto esperado.
+
+	Las actividades a realizar en la elaboración de un algoritmo para obtener una solución a un problema de forma correcta y eficiente son:
+		Resultados del análisis del problema
+			Con qué datos se cuenta, cuáles son necesarios como valores de entrada, qué restricciones deben considerarse, cómo debe ser la salida para que el problema se resuelva.
+		Construcción del algoritmo
+			Se refiere a la descripción detallada de los pasos que deben seguirse para resolver el problema.
+		Verificación del algoritmo
+			COnsiste en el seguimiento del mismo, empleando datos que son representativos del problema que se desea resolver (esto se conoce como prueba de escritorio).
+
+	Un algoritmo consta de 3 módulos:
+		Módulo de Entrada
+			Representa los datos que requieren para resolver el problema. Estos datos se pueden solicitar al usuario, leer de un archivo, consultar de una base de datos, etc.
+		Módulo de Procesamiento
+			Representa las operaciones necesarias para obtener un resultado a partir de los datos de entrada.
+		Módulo de Salida
+			Permite mostrar los resultados obtenidos a partir del módulo de procesamiento de datos. Los resultados pueden mostrarse en diversos sitios: en la pantalla, en un archivo, en una base de datos, etc.
+
+Prueba de escritorio
+	Una prueba de escritorio es una matriz formada por los valores que van adquieriendo cada una de las variables del programa en cada iteración. Una iteración es el número de veces que se ejecuta un código y permite ver los valores que van adquieriendo las variables en cada repetición.
